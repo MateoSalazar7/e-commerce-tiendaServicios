@@ -1,0 +1,17 @@
+input[type="file"] {
+  margin: 10px 0 10px 0;
+}
+
+.input1{
+  width: 100%;
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.textarea1{
+  width: 100%;
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
